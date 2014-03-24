@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXinTest", "WeiXinTest\WeiXinTest.csproj", "{4FAB82F9-8574-45F0-B112-DA17A7DC3B15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXinTest.CommonService", "WeiXinTest.CommonService\WeiXinTest.CommonService.csproj", "{DA0E450B-368A-46CA-BFAE-9A8AF3D5AA0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FAB82F9-8574-45F0-B112-DA17A7DC3B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FAB82F9-8574-45F0-B112-DA17A7DC3B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FAB82F9-8574-45F0-B112-DA17A7DC3B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FAB82F9-8574-45F0-B112-DA17A7DC3B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0E450B-368A-46CA-BFAE-9A8AF3D5AA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0E450B-368A-46CA-BFAE-9A8AF3D5AA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0E450B-368A-46CA-BFAE-9A8AF3D5AA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0E450B-368A-46CA-BFAE-9A8AF3D5AA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
